@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 🎯 Build out the project to the designs provided
 
-## Screenshot :camera:
+## Screenshots :camera:
 
 ![](./assets/screenshots/mobile.avif)
 
@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 [Live site URL here](https://mendezpvi.github.io/fem-profile-card-component/) 👈
 
-<!-- [Solution in Frontend Mentor here](https://your-solution-url.com) 👈 -->
+[Solution in Frontend Mentor here](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-nfZ6a3-Lc8) 👈
 
 
 ## Built with :hammer_and_pick:
